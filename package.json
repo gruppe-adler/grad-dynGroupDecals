@@ -1,0 +1,10 @@
+{
+    "name": "grad-factions",
+    "contributors": [
+        {
+            "name": "nomisum"
+        }
+    ],
+    "description": "Various faction loadouts for grad-loadout",
+    "version": "0.0.1"
+}
