@@ -1,10 +1,10 @@
 {
-    "name": "grad-factions",
+    "name": "grad-dynGroupDecals",
     "contributors": [
         {
             "name": "nomisum"
         }
     ],
-    "description": "Various faction loadouts for grad-loadout",
+    "description": "dyngroupdecals for gruppe adler",
     "version": "0.0.1"
 }
